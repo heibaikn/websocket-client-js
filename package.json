@@ -1,0 +1,11 @@
+{
+  "name": "websocket-client-js",
+  "version": "1.0.0",
+  "description": "对前端websocket api 进行封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fanxuchao,downing",
+  "license": "ISC"
+}
