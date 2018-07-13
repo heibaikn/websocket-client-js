@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":"https://github.com/heibaikn/websocket-client-js.git",
+  "repository": "https://github.com/heibaikn/websocket-client-js.git",
   "author": "fanxuchao,downing",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "promise-simple-class": "^1.0.1"
+  }
 }
