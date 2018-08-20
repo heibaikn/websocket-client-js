@@ -1,12 +1,12 @@
 {
   "name": "websocket-client-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "对前端websocket api 进行封装",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":"https://github.com/heibaikn/websocket-client-js.git",
+  "repository": "https://github.com/heibaikn/websocket-client-js.git",
   "author": "fanxuchao,downing",
   "license": "ISC"
 }
